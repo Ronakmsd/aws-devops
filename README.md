@@ -1,3 +1,4 @@
+Production-grade AWS DevOps CI/CD infrastructure built using Terraform, Docker, and ECS Fargate with automated deployment pipelines.
 # AWS DevOps CI/CD Pipeline
 
 [![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20ECR%20%7C%20CodePipeline-orange?logo=amazon-aws)](https://aws.amazon.com/)
@@ -35,7 +36,13 @@ This project demonstrates a **complete AWS DevOps pipeline** that automatically 
 
 ---
 
-## Architecture
+## Architecture Overview
+- VPC with Public & Private Subnets
+- Application Load Balancer
+- ECS Fargate Cluster
+- ECR for container registry
+- Terraform for IaC
+- AWS CodePipeline for CI/CD
 
 ![architecture](screenshots/11.png)
 
