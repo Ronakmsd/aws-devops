@@ -103,7 +103,7 @@ This project demonstrates a **complete AWS DevOps pipeline** that automatically 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Amitabh-DevOps/aws-devops.git
+git clone https://github.com/Ronakmsd/aws-devops.git
 cd aws-devops
 ```
 
@@ -340,6 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for DevOps by [Amitabh](https://github.com/Amitabh-DevOps)**
+**Built with 💻 by Ronak Bhanushali**
+[LinkedIn](https://www.linkedin.com/in/ronak-bhanushali-9a188228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Ronakmsd)
 
 **⭐ Star this repo if you find it helpful!**
