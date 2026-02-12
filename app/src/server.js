@@ -12,6 +12,14 @@ app.use(helmet({
     contentSecurityPolicy: false, // Allow inline styles for demo
 }));
 
+app.get('/api/developer', (req, res) => {
+  res.json({
+    name: 'Ronak Bhanushali',
+    project: 'AWS DevOps Platform',
+    skills: ['AWS', 'Terraform', 'Docker', 'ECS', 'CI/CD']
+  });
+});
+
 // Compression middleware
 app.use(compression());
 
